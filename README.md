@@ -2,7 +2,7 @@
 
 This project was created using Vue3 + Vite + Tailwind CSS
 
-![Alt text](../bear-talk//src/assets/readme.png)
+![Bt Banner](https://ibb.co/QbHpvsF)
 
 
 
