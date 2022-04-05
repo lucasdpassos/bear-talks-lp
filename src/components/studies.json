@@ -1,0 +1,16 @@
+{
+    "tech":"tailwind css",
+    "learned": [{
+        "colours":"true",
+        "responsivity":"true",
+        "fonts and typography":"true",
+        "flex":"true",
+        "animation":"true",
+        "shadows":"false",
+        "effects":"false",
+        "margin":"false",
+        "box":"false",
+        "forms":"false",
+        "table":"true"
+    }]
+}
