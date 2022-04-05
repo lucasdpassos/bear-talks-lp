@@ -9,7 +9,8 @@ module.exports = {
   theme: {
     colors: {     
       primary: "#27272a",
-      secondary: "#e7e5e4"
+      secondary: "#e7e5e4",
+      tomato: "#ff6347"
     },
     extend: {
       fontFamily: {
