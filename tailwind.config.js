@@ -11,7 +11,11 @@ module.exports = {
       primary: "#27272a",
       secondary: "#e7e5e4"
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        Poppins: ["Poppins", "sans-serif"]
+      }
+    },
   },
   plugins: [],
 }

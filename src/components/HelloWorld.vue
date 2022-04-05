@@ -5,7 +5,7 @@
   <img src="../assets/lucaskatana.png" />
   </div>
   <div class="flex flex-col gap-8 align-middle justify-evenly">
-  <h1 class="text-secondary text-3xl">{{ personalData.name }}</h1>
+  <h1 class="text-secondary font-Poppins text-3xl">{{ personalData.name }}</h1>
   </div>
   </div>
 </div>
