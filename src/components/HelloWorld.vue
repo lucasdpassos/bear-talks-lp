@@ -2,10 +2,13 @@
 <div class="container max-h-screen">
 <div class="flex w-screen h-[500px] bg-primary flex-row items-center justify-evenly">  
   <div class="basis-1/3 flex flex-row justify-center items-center">
-  <img src="../assets/lucaskatana.png" />
+  <img class="animate-pulse max-h-[300px]" src="../assets/lucasquadro.png" />
   </div>
   <div class="flex flex-col gap-8 align-middle justify-evenly">
   <h1 class="text-secondary font-Poppins text-3xl">{{ personalData.name }}</h1>
+  <HeroSectionButton heroBtnMessage="Quem sou eu?" />
+  <HeroSectionButton heroBtnMessage="Tecnologias" />
+  <HeroSectionButton heroBtnMessage="Esta Página" />
   </div>
   </div>
 </div>
@@ -13,7 +16,8 @@
 
 <script setup>
 
-import HeroSectionButton from './heroSectionButton.vue';
+
 import { personalData } from './example.json'
+import HeroSectionButton from './heroSectionButton.vue';
 
 </script>
